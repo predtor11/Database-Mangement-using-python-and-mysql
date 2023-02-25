@@ -2,6 +2,7 @@
 
 
 This Python and MySQL connection program allows you to connect to a MySQL database and perform the following operations: 
+- Creation of database
 - Creation of a table 
 - Inserting data 
 - Fetching data 
